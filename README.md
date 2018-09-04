@@ -2,7 +2,7 @@
 
 ## Introduction to Python, Numpy and Matplotlib
 We recommend that you get a Python installation up and running on your laptop and start 
-experimenting with the provided scripts.
+experimenting with the [introduction](https://github.com/otl-artorg/isip/blob/master/python-intro/introduction.py) and [matplotlib](https://github.com/otl-artorg/isip/blob/master/python-intro/matplotlib.py) scripts.
 
 A failsafe solution is you head on to the live notebooks below.
 
