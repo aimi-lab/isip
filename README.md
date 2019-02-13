@@ -7,7 +7,7 @@ experimenting with the [introduction](https://github.com/otl-artorg/isip/blob/ma
 A failsafe solution is you head on to the live notebooks below.
 
 ### Python and Numpy
-[Live ipython notebook](https://mybinder.org/v2/gh/otl-artorg/isip/master?filepath=python-intro%2Fintroduction.ipynb)
+[Live ipython notebook](https://hub.mybinder.org/user/otl-artorg-isip-7ycuz6uf/notebooks/python-intro/introduction.ipynb)
 
 ### Matplotlib
-[Live ipython notebook](https://mybinder.org/v2/gh/otl-artorg/isip/master?filepath=python-intro%2Fmatplotlib.ipynb)
+[Live ipython notebook](https://hub.mybinder.org/user/otl-artorg-isip-7ycuz6uf/notebooks/python-intro/matplotlib.ipynb)
